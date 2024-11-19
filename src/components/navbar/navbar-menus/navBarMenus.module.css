@@ -1,0 +1,32 @@
+.menuButton{
+    display: none;
+}
+
+.mobileLinks{
+    display: none;
+}
+
+@media (max-width: 960px) {
+    .menuList{
+        display: none;
+    }
+
+    .menuButton {
+        display: block;
+        cursor: pointer;
+    }
+
+    .mobileLinks{
+        position: absolute;
+        top: 120px;
+        right: 0;
+        width: 100%;
+        height: calc(30vh - 40px);
+        background-color: var(--bg);
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        gap: 10px;
+    }
+}

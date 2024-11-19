@@ -1,0 +1,11 @@
+.responsive_container{
+    width: 1280px;
+}
+
+.image_card{
+    min-height: 500px;
+}
+
+.overlap{
+    margin-top: -250px;
+}

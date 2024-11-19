@@ -1,0 +1,12 @@
+User-agent: *
+Disallow: /admin
+
+User-agent: *
+Allow: /
+
+# Site Made by:
+    
+#   Fakrul Ibne Hassan
+
+# LinkedIn: https://www.linkedin.com/in/fakrul-ibne-hassan/
+# GitHub: https://github.com/NabilHassan7
